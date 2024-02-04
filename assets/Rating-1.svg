@@ -1,0 +1,43 @@
+<svg width="98" height="15" viewBox="0 0 98 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="98" height="15" fill="#E5E5E5"/>
+<g id="MacBook Pro - 1">
+<rect width="1440" height="4003" transform="translate(-344 -1539)" fill="#FAFAFA"/>
+<g id="Accessories Items">
+<g id="Accessory No 1">
+<rect id="Rectangle 253" x="-244" y="-392" width="380" height="429.162" rx="25" fill="url(#paint0_linear_0_1)"/>
+<g id="Rectangle 252" filter="url(#filter0_d_0_1)">
+<path d="M-244 -82H136V13C136 26.8071 124.807 38 111 38H-219C-232.807 38 -244 26.8071 -244 13V-82Z" fill="white"/>
+</g>
+<g id="Rating" clip-path="url(#clip0_0_1)">
+<g id="Group 3">
+<path id="Star" fill-rule="evenodd" clip-rule="evenodd" d="M7.5 10.5L3.09161 13.5676L4.64683 8.42705L0.367076 5.18237L5.73664 5.07295L7.5 0L9.26336 5.07295L14.6329 5.18237L10.3532 8.42705L11.9084 13.5676L7.5 10.5Z" fill="#FF5E3A"/>
+<path id="Star_2" fill-rule="evenodd" clip-rule="evenodd" d="M28.5 10.5L24.0916 13.5676L25.6468 8.42705L21.3671 5.18237L26.7366 5.07295L28.5 0L30.2634 5.07295L35.6329 5.18237L31.3532 8.42705L32.9084 13.5676L28.5 10.5Z" fill="#FF5E3A"/>
+<path id="Star_3" fill-rule="evenodd" clip-rule="evenodd" d="M49.5 10.5L45.0916 13.5676L46.6468 8.42705L42.3671 5.18237L47.7366 5.07295L49.5 0L51.2634 5.07295L56.6329 5.18237L52.3532 8.42705L53.9084 13.5676L49.5 10.5Z" fill="#FF5E3A"/>
+<path id="Star_4" fill-rule="evenodd" clip-rule="evenodd" d="M70.5 10.5L66.0916 13.5676L67.6468 8.42705L63.3671 5.18237L68.7366 5.07295L70.5 0L72.2634 5.07295L77.6329 5.18237L73.3532 8.42705L74.9084 13.5676L70.5 10.5Z" fill="#FF5E3A"/>
+<path id="Star_5" fill-rule="evenodd" clip-rule="evenodd" d="M90 10.5L85.5916 13.5676L87.1468 8.42705L82.8671 5.18237L88.2366 5.07295L90 0L91.7634 5.07295L97.1329 5.18237L92.8532 8.42705L94.4084 13.5676L90 10.5Z" fill="#FF5E3A"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-299" y="-127" width="490" height="230" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="5" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_0_1"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="25"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_1" x1="-54" y1="-392" x2="-54" y2="37.1621" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FCCB90" stop-opacity="0.44"/>
+<stop offset="1" stop-color="#FF9A9E" stop-opacity="0.38"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="97.5" height="15" fill="white"/>
+</clipPath>
+</defs>
+</svg>
